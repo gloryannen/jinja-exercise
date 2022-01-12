@@ -1,0 +1,37 @@
+h1 {
+  color: rgb(0, 0, 0);
+}
+
+body {
+  background-color: rgb(150, 193, 212);
+}
+
+.navbar {
+  background-color: black;
+  overflow: hidden;
+}
+
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.navbar a {
+  float: left;
+  color: rgb(218, 32, 32);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: whitesmoke;
+  color: rgb(60, 32, 218);
+}
+
+#content {
+  align-items: center;
+  text-align: center;
+  margin: 40px;
+}
